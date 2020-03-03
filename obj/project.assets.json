@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ranniery\\.nuget\\packages\\": {}
+    "C:\\Users\\ranni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projetos\\Inventario-POLI\\Inventario-POLI\\Equipamento.csproj",
+      "projectUniqueName": "C:\\Projetos\\Inventario\\Equipamento.csproj",
       "projectName": "Equipamento",
-      "projectPath": "F:\\Projetos\\Inventario-POLI\\Inventario-POLI\\Equipamento.csproj",
-      "packagesPath": "C:\\Users\\Ranniery\\.nuget\\packages\\",
-      "outputPath": "F:\\Projetos\\Inventario-POLI\\Inventario-POLI\\obj\\",
+      "projectPath": "C:\\Projetos\\Inventario\\Equipamento.csproj",
+      "packagesPath": "C:\\Users\\ranni\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Inventario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ranniery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ranni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

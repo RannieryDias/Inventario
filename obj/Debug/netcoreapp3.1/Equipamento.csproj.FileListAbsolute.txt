@@ -9,3 +9,14 @@ F:\Projetos\Inventario-POLI\Inventario-POLI\obj\Debug\netcoreapp3.1\Equipamento.
 F:\Projetos\Inventario-POLI\Inventario-POLI\obj\Debug\netcoreapp3.1\Equipamento.AssemblyInfo.cs
 F:\Projetos\Inventario-POLI\Inventario-POLI\obj\Debug\netcoreapp3.1\Equipamento.dll
 F:\Projetos\Inventario-POLI\Inventario-POLI\obj\Debug\netcoreapp3.1\Equipamento.pdb
+C:\Projetos\Inventario\bin\Debug\netcoreapp3.1\Equipamento.exe
+C:\Projetos\Inventario\bin\Debug\netcoreapp3.1\Equipamento.deps.json
+C:\Projetos\Inventario\bin\Debug\netcoreapp3.1\Equipamento.runtimeconfig.json
+C:\Projetos\Inventario\bin\Debug\netcoreapp3.1\Equipamento.runtimeconfig.dev.json
+C:\Projetos\Inventario\bin\Debug\netcoreapp3.1\Equipamento.dll
+C:\Projetos\Inventario\bin\Debug\netcoreapp3.1\Equipamento.pdb
+C:\Projetos\Inventario\obj\Debug\netcoreapp3.1\Equipamento.csprojAssemblyReference.cache
+C:\Projetos\Inventario\obj\Debug\netcoreapp3.1\Equipamento.AssemblyInfoInputs.cache
+C:\Projetos\Inventario\obj\Debug\netcoreapp3.1\Equipamento.AssemblyInfo.cs
+C:\Projetos\Inventario\obj\Debug\netcoreapp3.1\Equipamento.dll
+C:\Projetos\Inventario\obj\Debug\netcoreapp3.1\Equipamento.pdb
