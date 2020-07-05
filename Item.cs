@@ -78,5 +78,10 @@ namespace Inventario_POLI
             get;
         }
 
+        public void Cadastrar()
+        {
+
+        }
+
     }
 }
